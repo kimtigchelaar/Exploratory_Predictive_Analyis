@@ -1,2 +1,2 @@
 # Exploratory_Predictive_Analyis
-Both an exploratory and predictive analysis of the UN Debate Corpus (working with textual data of speeches given during the UN General Assembly).
+Exploratory and predictive analysis of the UN Debate Corpus (working with textual data of speeches given during the UN General Assembly). Combining multiple datasets to find possible relationships or correlations, analyzing data from the United Nations General Debate Corpus (UNGDC), the Global Terrorism Database (GTD), and the Human Development Index Database (HDID).
